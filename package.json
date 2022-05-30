@@ -1,0 +1,17 @@
+{
+  "name": "TRIAL",
+  "version": "1.0",
+  "description": "TRIAL menginisiasi new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
